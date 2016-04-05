@@ -1,0 +1,13 @@
+.longPanel {
+	padding: 20px 0px 20px 0px;
+}
+
+.image img {
+	border-radius:25px;
+	border: 2px solid #1975FF;
+}
+
+img:hover {
+	box-shadow: -1px 1px 20px 5px rgba(57.56%,36.79%,5.64%,0.75);
+	background-color: white;
+}

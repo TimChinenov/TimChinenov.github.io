@@ -1,0 +1,26 @@
+h1 strong{
+	font-family: Agency FB;
+	display: inline-block;
+	color:#1975FF;
+}
+
+h4 strong{
+	font-family: Agency FB;
+	display: inline-block;
+	color:#1975FF;
+}
+
+.longPanel {
+	padding: 20px 0px 20px 0px;
+}
+
+.image img {
+	border-radius:25px;
+	border: 2px solid #1975FF;
+}
+
+.ban img {
+	border: 2px solid #1975FF;
+	width: 370px;
+	height: 210px;
+}

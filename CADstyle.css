@@ -1,0 +1,49 @@
+.mypanel {
+	padding: 20px 0px 20px 0px;
+
+}
+
+.image img {
+	width: 300px;
+	height: 172px;
+	border: 2px solid #1975FF;
+	border-radius:25px;
+}
+
+.image{
+	text-align: center;
+}
+
+.image .ShowOnHover{
+    font-weight: normal;
+    width: 120px;
+	display:none;
+	padding:10px;
+}
+
+.image:hover img {
+	box-shadow: -1px 1px 20px 5px rgba(57.56%,36.79%,5.64%,0.75);
+	background-color: white;
+}
+
+ .mypanel .image:hover{
+	padding: 0px 0px 0px 0px;
+}
+
+.container {
+	background-color: #d1e3ff;
+}
+
+h1 strong{
+	font-family: Agency FB;
+	color:#1975FF;
+}
+
+.banner img {
+	border: 2px solid #1975FF;
+}
+
+h4 strong {
+	font-family: Agency FB;
+	color:#1975FF;
+}

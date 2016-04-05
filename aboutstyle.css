@@ -1,0 +1,56 @@
+div h3{
+	font-family: Agency FB;
+	color:#1975FF;
+}
+
+div h4{
+	font-family: Agency FB;
+	color:#1975FF;
+}
+
+div h2{
+	font-family: Agency FB;
+	color:#1975FF;
+}
+
+div .panel{
+	padding:5% 0 10% 0;
+	background-color: #d1e3ff;
+}
+
+div .img{
+	height: 250;
+	width: 370;
+	text-align: center;
+	border: 2px solid #1975FF;
+	border-radius:25px;
+}
+
+div.img img {
+	border-radius:25px;
+}
+
+
+.img .showOnHover{
+    font-weight: normal;
+    width: 120px;
+	display:none;
+	padding:10px;
+}
+
+.img:hover .showOnHover{
+	display:inline;
+}
+
+.img:hover img{
+	border-radius: 25px 25px 0px 0px;
+}
+
+.panel:hover .img {
+	box-shadow: 5px 5px 5px #888888;
+	background-color: white;
+}
+
+.container {
+	background-color: #d1e3ff;
+}

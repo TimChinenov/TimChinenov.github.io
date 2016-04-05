@@ -1,0 +1,67 @@
+body {
+	padding: 0px 0px 0px 0px;
+	font-family: arial;
+	color:#1975FF;
+}
+
+ul
+{
+	list-style-type:none;
+}
+
+body header h1 {
+	font-family: Agency FB;
+	color: #1975FF;
+	padding: 0px 0px 0px 10px;
+}
+
+body header {
+	padding:  0px 0px 0px 0px;
+}
+
+.secondary {
+	background: none;
+}
+
+#special {
+	background: red;
+	color:white;
+}
+
+.carousel-inner {
+	max-height: 300px;
+}
+
+.carousel{
+	width: 700px;
+	max-height: 300px;
+}
+
+.navbar{
+	padding: 0px 0px 10px 0px;
+}
+
+h3 strong{
+	font-family: Agency FB;
+	display: inline-block;
+	color:#1975FF;
+}
+
+.transbox {
+	margin: 30px 30px 0px 30px;
+	padding:0px 30px 5px 30px;
+	background-color: rgb(100, 50, 50);
+	background-color: rgba(50, 50, 100, 0.6);
+	border:1px solid black;
+}
+
+.container {
+	background-color: #d1e3ff;
+}
+
+.pad{
+	padding:20px;
+}
+
+
+
