@@ -1,0 +1,51 @@
+.mypanel {
+	
+	border: 2px solid #1975FF;
+	border-radius:25px;
+	text-align: center;
+
+}
+
+.image img {
+	width: 300px;
+	height: 172px;
+	border-radius: 25px;
+	
+}
+
+.mypanel p{
+	display:none;
+}
+
+.coop img {
+	width: 300px;
+	height: 400px;
+	border: 2px solid #1975FF;
+	border-radius:25px;
+}
+
+.mypanel:hover p{
+	display:inline;
+}
+
+.container {
+	background-color: #d1e3ff;
+}
+
+.logo {
+	padding: 10px 0px;
+}
+
+ h1 strong{
+	font-family: Agency FB;
+	color:#1975FF;
+}
+
+ h3 strong{
+	font-family: Agency FB;
+	color:#1975FF;
+}
+header h1{
+	font-family: Agency FB;
+	color:#1975FF;
+}
