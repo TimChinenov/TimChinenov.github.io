@@ -1,3 +1,12 @@
+h1 strong{
+	font-family: Agency FB;
+	color:#1975FF;
+}
+
+.container{
+	font-family: Agency FB;
+	color:#1975FF;
+}
 .row{
 
 }
@@ -9,3 +18,15 @@
 	width:31%;
 	border 
 }
+
+.image {
+   opacity: 1;
+   transition: opacity .25s ease-in-out;
+   -moz-transition: opacity .25s ease-in-out;
+   -webkit-transition: opacity .25s ease-in-out;
+   }
+
+   .image:hover {
+      opacity: .5;
+      }
+
