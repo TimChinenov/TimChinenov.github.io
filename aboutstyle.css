@@ -21,14 +21,13 @@ div .img{
 }
 
 div .me{
-	border-style: solid;
-	 border-color: #1975FF;
-	height: 250;
-	width: 370;
 	text-align: center;
 	padding:5% 0 10% 0;
 }
-
+div .me image{
+	border-style: solid;
+	 border-color: #1975FF;
+}
 .container {
 	
 }
