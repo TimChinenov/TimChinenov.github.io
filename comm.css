@@ -1,0 +1,17 @@
+.container h4{
+ 	font-family: Agency FB;
+	color:#1975FF;
+ }
+
+.col-sm-4 {
+    margin:2% 2% 2% 2%;
+    padding:10px;
+    border:2px solid #A3A6AF;
+    background:#ffffff; }
+
+.col-sm-6 {
+	width: 50%;
+    margin:2% 2% 2% 2%;
+    padding:10px;
+    border:2px solid #A3A6AF;
+    background:#ffffff; }
