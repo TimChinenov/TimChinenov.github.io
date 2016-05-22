@@ -3,32 +3,16 @@
 
 }
 
-.image img {
-	width: 300px;
-	height: 172px;
-	border: 2px solid #1975FF;
-	border-radius:25px;
-}
+.image {
+   opacity: 1;
+   transition: opacity .25s ease-in-out;
+   -moz-transition: opacity .25s ease-in-out;
+   -webkit-transition: opacity .25s ease-in-out;
+   }
 
-.image{
-	text-align: center;
-}
-
-.image .ShowOnHover{
-    font-weight: normal;
-    width: 120px;
-	display:none;
-	padding:10px;
-}
-
-.image:hover img {
-	box-shadow: -1px 1px 20px 5px rgba(57.56%,36.79%,5.64%,0.75);
-	background-color: white;
-}
-
- .mypanel .image:hover{
-	padding: 0px 0px 0px 0px;
-}
+   .image:hover {
+      opacity: .5;
+      }
 
 
 h1 strong{
