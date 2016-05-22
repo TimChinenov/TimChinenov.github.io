@@ -8,3 +8,14 @@
 .longpanel img {
 	border:2px solid #A3A6AF;	
 }
+
+.image {
+   opacity: 1;
+   transition: opacity .25s ease-in-out;
+   -moz-transition: opacity .25s ease-in-out;
+   -webkit-transition: opacity .25s ease-in-out;
+   }
+
+   .image:hover {
+      opacity: .5;
+      }
