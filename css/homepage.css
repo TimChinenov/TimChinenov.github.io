@@ -1,10 +1,10 @@
 h1 strong{
-	font-family: Agency FB;
+	font-family: Agency FB, sans-serif;
 	color:#1975FF;
 }
 
 .container{
-	font-family: Agency FB;
+	font-family: Agency FB,sans-serif;
 	color:#1975FF;
 }
 .row{
@@ -16,7 +16,7 @@ h1 strong{
 	padding: 10px;
 	margin:1%;
 	width:31%;
-	border 
+	border
 }
 
 .image {
@@ -29,4 +29,3 @@ h1 strong{
    .image:hover {
       opacity: .5;
       }
-
